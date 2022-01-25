@@ -40,7 +40,6 @@ INSTALLED_APPS = [
 
     # My apps
     'polls.apps.PollsConfig',
-    'shell_plus',
 ]
 
 MIDDLEWARE = [
